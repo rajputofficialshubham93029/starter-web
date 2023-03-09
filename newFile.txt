@@ -1,3 +1,7 @@
 this is the file we are created for the forked repository.
 
-this is the line 2 added after commit.
+this is the line 2 added after commit 1.
+
+this is the line 3 after commit 2.
+
+this is the line 4 from the staging area.
