@@ -15,3 +15,5 @@ this is added after adding the file to staging area.
 ## How To Contribute
 
 copy line in the readme
+
+this is the going to be conflict.(change branch example).
