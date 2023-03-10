@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+change in human.txt at branch change
+
 # TEAM
 
     <name> -- <role> -- <twitter>
